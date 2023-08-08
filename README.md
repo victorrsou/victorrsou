@@ -17,8 +17,6 @@ Sou estudante, apaixonado por programação, em busca do primeiro estágio na á
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK_LINKEDIN](https://www.linkedin.com/in/victor-rocha-de-souza-01ba81225/))](https://www.linkedin.com/in/victor-rocha-de-souza-01ba81225/)
 
-- Obrigado pela visita!
-
 ----------------------------------------------------------------------------------
 
 ![victorrsou's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrsou&theme=material-palenight&show_icons=true)
