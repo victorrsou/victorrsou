@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Victor! 
 
-Sou estudante, apaixonado por programação, em busca do primeiro estágio na área da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas, segundo semestre, e procuro estágio para desenvolvedor “back-end". Tenho como objetivo o aprendizado contínuo, buscando sempre me atualizar e crescer como profissional.
+Sou estudante, apaixonado por programação, em busca do primeiro estágio na área da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas, segundo semestre. Tenho como objetivo o aprendizado contínuo, buscando sempre me atualizar e crescer como profissional.
 
 ## Linguagens e Tecnologias
 
