@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Victor! 
 
-Sou estudante, apaixonado por programação, em busca do primeiro estágio na área da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas, segundo semestre. Tenho como objetivo o aprendizado contínuo, buscando sempre me atualizar e crescer como profissional.
+Sou estudante, apaixonado por programação. Estou cursando Análise e Desenvolvimento de Sistemas, terceiro semestre. Tenho como objetivo o aprendizado contínuo, buscando sempre me atualizar e crescer como profissional.
 
 ## Linguagens e Tecnologias
 
@@ -10,6 +10,7 @@ Sou estudante, apaixonado por programação, em busca do primeiro estágio na á
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
  
 
